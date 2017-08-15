@@ -1,0 +1,56 @@
+{
+  "res":"200",
+  "data": {
+	  		"index": [
+	  			{
+	  				"type": "index",
+	        	"src": "http://www.ifd.club/ishare/index_banner_02.jpg",
+	        	"href": "http://www.ifd.club/news/notice?id=1",
+	        	"msg": "最新公告：关于爱分享上线公告！",
+	        	"dates": "2017.04.10 12:00:00"
+	  			},{
+	        	"type": "index",
+	        	"src": "http://www.ifd.club/ishare/index_banner_01.jpg",
+	        	"href": "http://www.ifd.club/news/notice?id=2",
+	        	"msg": "最新公告：大圣理财入驻爱分享平台公告！",
+	        	"dates": "2017.04.10 12:00:00"
+	        }
+	  		],
+	  		"platform": [
+	  			{
+	        	"type": "platform",
+	        	"src": "http://www.ifd.club/ishare/cooperate_01.png",
+	        	"msg": "hahhhas！",
+	        	"dates": "2017-01-01 10:00:00"
+	        },{
+	        	"type": "platform",
+	        	"src": "http://www.ifd.club/ishare/cooperate_02.png",
+	        	"msg": "hahhhas！",
+	        	"dates": "2017-01-01 10:00:00"
+	        },{
+	        	"type": "platform",
+	        	"src": "http://www.ifd.club/ishare/cooperate_03.png",
+	        	"msg": "hahhhas！",
+	        	"dates": "2017-01-01 10:00:00"
+	        }
+	  		],
+	  		"cooperate": [
+	  			{
+	        	"type": "cooperate",
+	        	"src": "http://www.ifd.club/ishare/cooperate_01.png",
+	        	"msg": "hahhhas！",
+	        	"dates": "2017-01-01 10:00:00"
+	        },{
+	        	"type": "cooperate",
+	        	"src": "http://www.ifd.club/ishare/cooperate_02.png",
+	        	"msg": "hahhhas！",
+	        	"dates": "2017-01-01 10:00:00"
+	        },{
+	        	"type": "cooperate",
+	        	"src": "http://www.ifd.club/ishare/cooperate_03.png",
+	        	"msg": "hahhhas！",
+	        	"dates": "2017-01-01 10:00:00"
+	        }
+	  		]
+	  	}
+}

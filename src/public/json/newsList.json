@@ -1,0 +1,38 @@
+{
+  "res":"200",
+  "data":{
+  	"notice":[
+	  	{
+	    	"id": 1,
+	    	"src": "http://www.ifd.club/ishare/online.jpg",
+	    	"title": "关于爱分享上线公告",
+	    	"description": "爱分享平台将于2017年4月15日正式上线。",
+	    	"time": "2017-04-10"
+	    },{
+	    	"id": 2,
+	    	"src": "http://www.ifd.club/ishare/enter.jpg",
+	    	"title": "大圣理财入驻爱分享平台公告",
+	    	"description": "互联网金融平台—大圣理财于2017年4月15日成功入驻爱分享。",
+	    	"time": "2017-04-10"
+	    }
+	  ],
+	  "info":[
+	  	{
+	    	"id": 3,
+	    	"src": "http://www.ifd.club/ishare/enter.jpg",
+	    	"title": "热烈祝贺国资背景平台—大圣理财成功入驻爱分享",
+	    	"description": "热烈祝贺国资背景平台—大圣理财成功入驻爱分享",
+	    	"time": "2017-04-10"
+	    }
+	  ],
+	  "dynamic":[
+	  	{
+	    	"id": 4,
+	    	"src": "http://www.ifd.club/ishare/campusloan.jpg",
+	    	"title": "银监会发文明确网贷行业整改重点：校园贷和现金贷",
+	    	"description": "2017年4月10日，银监会网站正式发布《中国银监会关于银行业风险防控工作的指导意见》，明确了银行业风险防控工作的目标原则及银行业风险防控的重点领域。指导意见还明确了网贷行业的整改重点：校园贷及现金贷。",
+	    	"time": "2017-04-10"
+	    }
+	  ]
+  }
+}

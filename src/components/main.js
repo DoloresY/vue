@@ -1,0 +1,12 @@
+export Header from "./header.vue"			//头部
+export Footer from "./footer.vue"			//尾部
+export Platlist from "./plat_list.vue"		//平台列表
+export PlatlistH from "./plat_list_h.vue"	//平台列表横向展示
+export NewsDetail from "./news_detail.vue"	//平台详情
+export Carousel from "./carousel.vue"		//走马灯
+export NewsList from "./news_list.vue"		//新闻列表
+export Pagination from "./pagination.vue"	//分页
+export Ad from "./ad.vue"					//广告
+export BackUp from "./back_up.vue"			//返回顶部
+export Login from "./login.vue"				//登录
+export ImgCheck from "./img_check.vue"		//图片验证码

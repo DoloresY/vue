@@ -1,0 +1,1 @@
+export Cooperate from './index.vue';

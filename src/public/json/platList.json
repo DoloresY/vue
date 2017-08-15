@@ -1,0 +1,88 @@
+{
+  "res":"200",
+  "data":[
+	  	{
+	  		"id": 100,
+	    	"src": "http://www.ifd.club/ishare/logo1.jpg",
+	    	"title": "国资互金平台",
+	    	"grate": "10.8%",
+	    	"days": "30天-365天",
+	    	"money": "20000万",
+	    	"lineDate": "2016年1月1日",
+	    	"zhifu":"国资背景",
+	   		"zhifus":""
+	  	},
+	    {
+	      "id": 101,
+	    	"src": "http://www.ifd.club/ishare/logo5.jpg",
+	    	"title": "嘉银金科（股票代码：832031）",
+	    	"grate":"5%-11%",
+	    	"days": "30天-545天",
+	    	"money": "10000万",
+	    	"lineDate": "2011年6月14日",
+	    	"zhifu":"民营系",
+	    	"zhifus":" 银行存管"
+	    },
+	    {
+		    "id": 102,
+	    	"src": "http://www.ifd.club/ishare/logo6.jpg",
+	    	"title": "送好礼赚钱不停",
+	    	"grate":"7%-12%",
+	    	"days": "30天-365天",
+	    	"money": "10000万",
+	    	"lineDate": "2013年5月6日",
+	    	"zhifu":"民营系",
+	    	"zhifus":"江西银行存管"
+    	},{
+	    	"id": 103,
+	    	"src": "http://www.ifd.club/ishare/logo7.jpg",
+	    	"title": "专业短期理财平台",
+	    	"grate":"8%-12%",
+	    	"days": "1天-365天",
+	    	"money": "5651万",
+	    	"lineDate": "2014年3月17日",
+	    	"zhifu":"上市系",
+	    	"zhifus":"浙商银行存管"
+	    },{
+	    	"id": 104,
+	    	"src": "http://www.ifd.club/ishare/logo8.jpg",
+	    	"title": "专业稳健的互联网理财平台",
+	    	"grate":"7%-15%",
+	    	"days": "30天-365天",
+	    	"money": "8000万",
+	    	"lineDate": "2013年9月4日",
+	    	"zhifu":"国资控股",
+	    	"zhifus":"江西银行存管"
+	    },{
+	    	"id": 105,
+	    	"src": "http://www.ifd.club/ishare/logo2.jpg",
+	    	"title": "中房集团战略入股",
+	    	"grate":"6%-12%",
+	    	"days": "30天-365天",
+	    	"money": "5000万",
+	    	"lineDate": "2016年12月24日",
+	    	"zhifu":"民营系",
+	    	"zhifus":"新浪支付托管"
+	    },{
+	    	"id": 106,
+	    	"src": "http://www.ifd.club/ishare/logo3.jpg",
+	    	"title": "强大股东背景",
+	    	"grate": "6.5%-14%",
+	    	"days": "30天-365天",
+	    	"money": "4496万",
+	    	"lineDate": "2013年04月",
+	    	"zhifu":"A轮融资",
+	    	"zhifus":"互金协会"
+	    },{
+	    	"id": 107,
+	    	"src": "http://www.ifd.club/ishare/logo4.jpg",
+	    	"title": "银行存管互金平台",
+	    	"grate": "6.5%-7.5%",
+	    	"days": "30天-365天",
+	    	"money": "5000万",
+	    	"lineDate": "2017年1月1日",
+	    	"zhifu":"",
+	    	"zhifus":"银行存管"
+	    }
+  ]
+}
