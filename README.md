@@ -1,4 +1,4 @@
-﻿# iShare
+﻿# vue+vuex+vue-router+iView+webpack
 > A vue project.
 
 ## Development
